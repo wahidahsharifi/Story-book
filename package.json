@@ -1,0 +1,37 @@
+{
+  "name": "story-books",
+  "version": "1.0.0",
+  "description": "this app helps you store and share moments",
+  "main": "app.js",
+  "scripts": {
+    "start": "cross-env NODE_ENV=production node app.js",
+    "dev": "cross-env NODE_ENV=development nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wahidahsharifi/Story-book.git"
+  },
+  "author": "Wahid Sharifi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wahidahsharifi/Story-book/issues"
+  },
+  "homepage": "https://github.com/wahidahsharifi/Story-book#readme",
+  "dependencies": {
+    "connect-mongo": "^5.1.0",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "express-handlebars": "^8.0.2",
+    "express-session": "^1.18.1",
+    "method-override": "^3.0.0",
+    "moment": "^2.30.1",
+    "mongoose": "^8.15.1",
+    "morgan": "^1.10.0",
+    "passport": "^0.7.0",
+    "passport-google-oauth20": "^2.0.0"
+  },
+  "devDependencies": {
+    "cross-env": "^7.0.3",
+    "nodemon": "^3.1.10"
+  }
+}
