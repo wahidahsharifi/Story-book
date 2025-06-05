@@ -1,8 +1,6 @@
 # 📖 Story Books
 
-A full-stack CRUD web app where users can write, manage, and share personal stories. Built while following a guided tutorial to deepen my understanding of **Node.js**, **Express**, **MongoDB**, and several new libraries.
-
----
+A full-stack CRUD web app where users can write, manage, and share personal stories. Built while following a [guided tutorial](https://youtu.be/SBvmnHTQIPY?si=vDZOtaYRW36ikZxj) by [Traversy Media](https://www.traversymedia.com/) to deepen my understanding of **Node.js**, **Express**, **MongoDB**, and several new libraries.
 
 ## 🚀 What It Does
 
@@ -23,8 +21,6 @@ A full-stack CRUD web app where users can write, manage, and share personal stor
 
 - **Story Authors & User Pages**  
   Each story displays the author's name. Clicking it loads a page with all stories written by that user.
-
----
 
 ## 📚 What I Learned
 
@@ -53,33 +49,18 @@ This project wasn’t just about code — it was about structuring an app like a
 - **Folder Structure Best Practices**  
   Connected the pieces while making sure things stay tidy and scalable.
 
----
-
-## 🛠️ Tech Stack
-
-- Node.js
-- Express
-- MongoDB & Mongoose
-- Passport.js
-- Express-Handlebars
-- CKEditor
-- Moment.js
-- Method-Override
-- dotenv
-
----
+## 🛠️ Technologies used
+`Node.js` `Express` `MongoDB & Mongoose` `Passport.js` `Express-Handlebars` `CKEditor` `Moment.js` `Method-Override` `dotenv`
 
 ## 📸 Screenshots
+![Login page screenshot](https://github.com/user-attachments/assets/82cfeb09-0671-4538-8cb8-8f4141b0fe4b)
 
-_You might wanna add a couple of screenshots here later to show off the dashboard, public feed, and story editor._
+![dashboard screenshot](https://github.com/user-attachments/assets/c4cfd1a6-4b8d-4a5e-acaa-aa0f8f4e9999)
 
----
+![story edit page](https://github.com/user-attachments/assets/d0efa2d2-d34a-436f-89ef-2c097cb1b2ba)
 
-## 🔗 Project Link
+![stories feed page](https://github.com/user-attachments/assets/68303780-2cc3-4164-be30-a0b644950b7c)
 
-[👉 Check out the repo](https://github.com/wahidahsharifi/Story-book)
-
----
 
 ## 📌 Final Words
 
